@@ -1,8 +1,8 @@
 {
   "status": "ok",
-  "status-code": 200,
+  "status-code":200,
   "access":"public",
-  "news": [
+  "data": [
     {
       "id": 1,
       "title": "India Achieves Record Solar Power Capacity",
@@ -17,7 +17,7 @@
       "category": "Technology",
       "author": "Riya Sharma",
       "date": "2025-02-05",
-      "content": "Artificial Intelligence is revolutionizing learning methods."
+      "content": "Artificial Intelligence is revolutionizing learning methods and student evaluations."
     },
     {
       "id": 3,
@@ -25,9 +25,146 @@
       "category": "Finance",
       "author": "Amit Verma",
       "date": "2025-02-20",
-      "content": "The government has announced new schemes for startups."
+      "content": "The government has announced new schemes for startups and digital payments."
+    },
+
+    <!-- 17 NEW RECORDS BELOW -->
+
+    {
+      "id": 4,
+      "title": "Global Smartphone Market Sees Major Growth",
+      "category": "Technology",
+      "author": "Neha Singh",
+      "date": "2025-03-01",
+      "content": "Smartphone shipments increased by 12% backed by strong 5G demand."
+    },
+    {
+      "id": 5,
+      "title": "Sports Authority Announces New Training Programs",
+      "category": "Sports",
+      "author": "Rahul Jain",
+      "date": "2025-03-04",
+      "content": "Government introduces new youth sports training programs nationwide."
+    },
+    {
+      "id": 6,
+      "title": "Heavy Rainfall Expected This Week",
+      "category": "Weather",
+      "author": "Sunita Mehta",
+      "date": "2025-03-06",
+      "content": "Meteorological Department warns of heavy rainfall in several states."
+    },
+    {
+      "id": 7,
+      "title": "New Advances in Space Exploration",
+      "category": "Science",
+      "author": "Akash Tiwari",
+      "date": "2025-03-09",
+      "content": "Scientists announce discoveries in the search for habitable planets."
+    },
+    {
+      "id": 8,
+      "title": "Stock Market Hits All-Time High",
+      "category": "Finance",
+      "author": "Kavita Rao",
+      "date": "2025-03-12",
+      "content": "Sensex and Nifty both touched record highs, driven by IT and banking sectors."
+    },
+    {
+      "id": 9,
+      "title": "Electric Vehicles Demand Surges in India",
+      "category": "Automobile",
+      "author": "Rohan Gupta",
+      "date": "2025-03-14",
+      "content": "EV sales crossed 2 million units in India, with new models attracting buyers."
+    },
+    {
+      "id": 10,
+      "title": "New Movie Release Breaks Box Office Records",
+      "category": "Entertainment",
+      "author": "Simran Kaur",
+      "date": "2025-03-16",
+      "content": "The sci-fi blockbuster has become the highest-grossing film of the year."
+    },
+    {
+      "id": 11,
+      "title": "Breakthrough in Cancer Research",
+      "category": "Health",
+      "author": "Dr. Mehul Shah",
+      "date": "2025-03-18",
+      "content": "Researchers have developed a new treatment method showing promising results."
+    },
+    {
+      "id": 12,
+      "title": "Farmers Adopt Smart Agriculture Technology",
+      "category": "Agriculture",
+      "author": "Anil Yadav",
+      "date": "2025-03-20",
+      "content": "IoT-based sensors and drones boost agriculture productivity."
+    },
+    {
+      "id": 13,
+      "title": "New Cybersecurity Guidelines Released",
+      "category": "Cybersecurity",
+      "author": "Priya Desai",
+      "date": "2025-03-22",
+      "content": "Government introduces strict cybersecurity regulations for companies."
+    },
+    {
+      "id": 14,
+      "title": "Global Oil Prices Drop Significantly",
+      "category": "Business",
+      "author": "Harsh Malhotra",
+      "date": "2025-03-24",
+      "content": "Oil prices hit a 5-year low due to oversupply and reduced demand."
+    },
+    {
+      "id": 15,
+      "title": "Wildlife Conservation Efforts Increase Tiger Population",
+      "category": "Environment",
+      "author": "Deepika Rawat",
+      "date": "2025-03-25",
+      "content": "New conservation policies have increased the tiger population by 20%."
+    },
+    {
+      "id": 16,
+      "title": "International Robotics Expo 2025 Begins",
+      "category": "Technology",
+      "author": "Aarav Mehta",
+      "date": "2025-03-27",
+      "content": "Robotics companies showcase advanced AI-powered robots."
+    },
+    {
+      "id": 17,
+      "title": "Tourism Industry Sees Strong Recovery",
+      "category": "Travel",
+      "author": "Nisha Taneja",
+      "date": "2025-03-28",
+      "content": "Tourism returns to pre-pandemic levels with record international visitors."
+    },
+    {
+      "id": 18,
+      "title": "New Education Policy Announced",
+      "category": "Education",
+      "author": "Sanjay Bhatia",
+      "date": "2025-03-29",
+      "content": "The government announces major reforms in school and university education."
+    },
+    {
+      "id": 19,
+      "title": "Scientists Develop Faster Charging Batteries",
+      "category": "Science",
+      "author": "Ritika Arora",
+      "date": "2025-03-30",
+      "content": "New battery tech reduces charging time by 70%."
+    },
+    {
+      "id": 20,
+      "title": "Major Tech Companies Plan to Hire 50,000 Employees",
+      "category": "Business",
+      "author": "Manish Kumar",
+      "date": "2025-04-01",
+      "content": "Tech giants announce massive hiring initiatives for freshers and engineers."
     }
   ]
 }
-
-
