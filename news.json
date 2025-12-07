@@ -1,0 +1,29 @@
+{
+  "status": "success",
+  "data": [
+    {
+      "id": 1,
+      "title": "India Achieves Record Solar Power Capacity",
+      "category": "Environment",
+      "author": "Pankaj Dhaker",
+      "date": "2025-01-14",
+      "content": "India has added a record 10GW of solar power capacity this year."
+    },
+    {
+      "id": 2,
+      "title": "AI is Transforming the Future of Education",
+      "category": "Technology",
+      "author": "Riya Sharma",
+      "date": "2025-02-05",
+      "content": "Artificial Intelligence is revolutionizing learning methods."
+    },
+    {
+      "id": 3,
+      "title": "Budget 2025: Key Highlights",
+      "category": "Finance",
+      "author": "Amit Verma",
+      "date": "2025-02-20",
+      "content": "The government has announced new schemes for startups."
+    }
+  ]
+}
