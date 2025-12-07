@@ -2,7 +2,7 @@
   "status": "ok",
   "status-code": 200,
   "access":"public",
-  "data": [
+  "news": [
     {
       "id": 1,
       "title": "India Achieves Record Solar Power Capacity",
@@ -29,4 +29,5 @@
     }
   ]
 }
+
 
